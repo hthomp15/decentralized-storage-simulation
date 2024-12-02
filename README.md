@@ -46,7 +46,7 @@ The entry point demonstrates the system by:
 1. Clone the repository and navigate to the project directory:
    ```bash
    git clone https://github.com/hthomp15/decentralized-storage-simulation.git
-   cd decentralized_storage
+   cd decentralized-storage
    ```
 
 2. Build and run the project:
